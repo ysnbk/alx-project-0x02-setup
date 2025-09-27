@@ -4,6 +4,7 @@ import Link from 'next/link';
    <div className="relative flex  items-center justify-center m-3 p-5">
    <Link href="/home">Home</Link>
    <Link href="/about">About</Link>
+   <Link href="/posts">Posts</Link>
    </div>
   );
 }
